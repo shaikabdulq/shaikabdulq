@@ -68,9 +68,9 @@ Welcome to my project portfolio! I am Shaik Abdul, a highly skilled software dev
 - **Linux:** Experienced in Linux system administration and scripting.
 - **Data Formats:** Skilled in handling JSON, CSV, and XML data structures.
 
-## Certifications
+## [Certifications](https://github.com/shaikabdulq/shaikabdulq/tree/main/Certifications)
 - Python Specialization, University of Michigan.
 - AWS Certified Solutions Architect.
 - AWS Certified Cloud Practitioner.
 - Boto3, and Lambda using Python Certification.
-- Linux Certification.
+- Linux Certification.  
