@@ -1,5 +1,5 @@
 
-# Shaik Abdul Quddus - Project Portfolio
+# Shaik Abdul - Project Portfolio
 
 ## Overview
 Welcome to my project portfolio! I am Shaik Abdul, a highly skilled software developer and cloud specialist with a rich educational background and professional certifications. My journey includes completing a Python Specialization from the University of Michigan, obtaining AWS Certified Solutions Architect and Certified Cloud Practitioner certifications, and mastering Linux, Boto3, and AWS Lambda. This document highlights key projects that demonstrate my expertise in programming, cloud services, and more.
