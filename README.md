@@ -33,7 +33,7 @@ Welcome to my project portfolio! I am Shaik Abdul, a highly skilled software dev
 - **Achievement:** Over 940 lines of code across various projects.
 - **Skills Developed:** Advanced programming concepts, project management, and problem-solving.
 
-### [5. AWS Cloud-Based Projects](https://github.com/shaikabdulq/AWS-Projects)
+### 5. [AWS Cloud-Based Projects](https://github.com/shaikabdulq/AWS-Projects)
 - **Description:** Multiple projects focused on AWS services utilizing Python, Boto3, and AWS Lambda.
 - **Projects Include:** AMI duplication across regions, CSV/JSON processing from S3 to DynamoDB, EC2 instances scheduling, and more.
 - **Technical Proficiency:** Demonstrated around 450 lines of well-documented and efficient Python code.
