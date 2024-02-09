@@ -16,6 +16,9 @@ Welcome to my project portfolio! I am Shaik Abdul, a highly skilled software dev
   - Automated trading strategies and data visualization.
   - Managed DynamoDB interactions and EC2 hosting.
 
+  <img src = 'static/firsttrade (resized).gif'>
+  <img src = 'static/100 trans.jpg'>
+
 ### 2. [University of Michigan - Python Specialization Projects](https://github.com/shaikabdulq/UOM-Projects)
 - **Description:** A series of projects showcasing advanced programming concepts including API services, database management, web networking, object-oriented programming, and data processing.
 - **Key Features:** 
@@ -23,15 +26,22 @@ Welcome to my project portfolio! I am Shaik Abdul, a highly skilled software dev
   - Integrated with various databases and APIs.
 - **Learning Outcome:** Enhanced problem-solving skills and technical proficiency in real-world scenarios.
 
+  <img src = 'static/geocode api.gif'>
+
+
 ### 3. [Selenium Attendance Record Bot](https://github.com/shaikabdulq/selenium-attendance-record)
 - **Description:** An automated Python script for managing student attendance records via web interaction.
 - **Technologies Used:** Python, Selenium, BeautifulSoup.
 - **Functionality:** Automated web navigation, login processes, and alert handling.
 
+  <img src = 'static/selenium_bot_gif.gif'>
+
 ### 4. [100 Days of Code Bootcamp](https://github.com/shaikabdulq/Bootcamp-Projects)
 - **Instructor:** Dr. Angela Yu.
 - **Achievement:** Over 940 lines of code across various projects.
 - **Skills Developed:** Advanced programming concepts, project management, and problem-solving.
+
+  <img src = 'static/movies collection website.gif'>
 
 ### 5. [AWS Cloud-Based Projects](https://github.com/shaikabdulq/AWS-Projects)
 - **Description:** Multiple projects focused on AWS services utilizing Python, Boto3, and AWS Lambda.
